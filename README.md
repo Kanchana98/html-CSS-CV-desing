@@ -6,7 +6,7 @@
     
     <style>
       html {
-        background-color: #fff;
+        background-color: #Black;
         padding: 0 1em;
       }
       body {
@@ -70,7 +70,7 @@
         margin-right: 15px;
       }
       .wrapper .title {
-        color: #1E90FF;
+        color: Blue;
         font-size: 1.3em;
         font-variant: small-caps;
         letter-spacing: 0.1em;
